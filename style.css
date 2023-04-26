@@ -945,6 +945,14 @@ input{
         width: 155%;
         gap: 5rem;
     }
+    .content{
+        width: 305px;
+        height: 250px;
+    }
+    .content-1{
+        width: 305px;
+        height: 250px;
+    }
     .container-projet{
         position: relative;
         min-height: 115vh;
@@ -995,55 +1003,3 @@ input{
        
     }
 }
-/* @media screen and (max-width:360px){
-    /* .img-remove{
-        width: 90vw;
-        position: absolute;
-        top: 5rem;
-        right: -50%;
-    }
-    .container-accueil{
-        display: flex;
-        min-height: 80vh;
-    } */
-   /* .text-accueil{
-        margin-top: 3rem;
-    }
-    .container-apropos{
-        min-height: 85vh;
-    }
-    .container-projet{
-        min-height: 220vh;
-        width: 160%;
-        margin-bottom: 5rem;
-    }
-    .btn-D{
-        margin-left: 14rem;
-    }
-    textarea{
-        margin: 5px;
-        border-radius: 5px;
-        width: 165%;
-        height: 20vh;
-    }
-    input{
-        width: 150%;
-        height: 30px;
-        border-bottom: 5px var(--clr-primary-1) solid;
-        padding: 15px;
-        margin-bottom: 15px;
-    }
-    .btn-second{
-        width: 250px;
-        margin-left: 4rem;
-    }
-}*/
-/*@media screen and (max-width:320px){
-    .btn-D{
-        margin-left: 12rem;
-    }
-    .btn-second{
-        width: 200px;
-        margin-left: 3rem;
-    }
-} */
